@@ -6,6 +6,6 @@
 # - Profesor. En esta pestaña aparece el mensaje (con h1) "Estos son los profesores!!" con un style "Rojo", por eso aparece el mensaje en Rojo.
 # - Para poder solicitar datos y utilizar el "GET", se debe entrar a http://127.0.0.1:8000/AppCoder/busquedaCamada/ e ingresar el número de la camada que desea encontrar. Esto se puede encontrar en el código en la sección de views, y en def buscar(request) explica como funciona el mismo con sus propios comentarios.
 # - Por último se creo un usuario para el tutor Jonatan Canchi, con la siguiente información:
-# Nombre de usuario: Jonatan-Canchi
+# Nombre de usuario: Juan-Carlos-Paredes-Alva
 # Contraseña: CoderHouse1234
 # El mismo es SuperUsario y pertenece al staf además de contar con todos los permisos y podes hacer cualquier cosa dentro de la página.
